@@ -87,8 +87,7 @@ This project is a **blockchain-based investment platform** combined with AI data
 ## 🖼 Demo Screenshots | 项目截图
 
 ```md
-![demo](./images/1.png)
-![demo](./images/2.png)
+见其他图片文件
 ```
 
 ---
